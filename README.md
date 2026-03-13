@@ -528,7 +528,7 @@
 
 <!-- ===== HERO ===== -->
 <section id="hero">
-  <div class="viernes-badge">✨ Viernes 13 · Edición Especial ✨</div>
+  <div class="viernes-badge">✨ Eres la primera persona que dedico un Viernes 13 ✨</div>
 
   <h1 id="titulo-principal">Feliz Viernes 13</h1>
 
